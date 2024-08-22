@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SearchingAlgo\obj\Debug\net8.0\Assignments_SearchingAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SearchingAlgo\obj\Debug\net8.0\Assignments_SearchingAlgo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SearchingAlgo\obj\Debug\net8.0\Assignments_SearchingAlgo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SearchingAlgo\obj\Debug\net8.0\Assignments_SearchingAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SearchingAlgo\bin\Debug\net8.0\Assignments_SearchingAlgo.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SearchingAlgo\bin\Debug\net8.0\Assignments_SearchingAlgo.deps.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SearchingAlgo\bin\Debug\net8.0\Assignments_SearchingAlgo.runtimeconfig.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SearchingAlgo\bin\Debug\net8.0\Assignments_SearchingAlgo.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SearchingAlgo\bin\Debug\net8.0\Assignments_SearchingAlgo.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SearchingAlgo\obj\Debug\net8.0\Assignments_SearchingAlgo.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SearchingAlgo\obj\Debug\net8.0\refint\Assignments_SearchingAlgo.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SearchingAlgo\obj\Debug\net8.0\Assignments_SearchingAlgo.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SearchingAlgo\obj\Debug\net8.0\Assignments_SearchingAlgo.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SearchingAlgo\obj\Debug\net8.0\ref\Assignments_SearchingAlgo.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments\bin\Debug\net8.0\Assignments.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments\bin\Debug\net8.0\Assignments.deps.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments\bin\Debug\net8.0\Assignments.runtimeconfig.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments\bin\Debug\net8.0\Assignments.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments\bin\Debug\net8.0\Assignments.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments\obj\Debug\net8.0\Assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments\obj\Debug\net8.0\Assignments.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments\obj\Debug\net8.0\Assignments.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments\obj\Debug\net8.0\Assignments.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments\obj\Debug\net8.0\Assignments.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments\obj\Debug\net8.0\refint\Assignments.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments\obj\Debug\net8.0\Assignments.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments\obj\Debug\net8.0\Assignments.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments\obj\Debug\net8.0\ref\Assignments.dll

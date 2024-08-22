@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SortingAlgo\bin\Debug\net8.0\Assignments_SortingAlgo.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SortingAlgo\bin\Debug\net8.0\Assignments_SortingAlgo.deps.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SortingAlgo\bin\Debug\net8.0\Assignments_SortingAlgo.runtimeconfig.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SortingAlgo\bin\Debug\net8.0\Assignments_SortingAlgo.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SortingAlgo\bin\Debug\net8.0\Assignments_SortingAlgo.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SortingAlgo\obj\Debug\net8.0\Assignments_SortingAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SortingAlgo\obj\Debug\net8.0\Assignments_SortingAlgo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SortingAlgo\obj\Debug\net8.0\Assignments_SortingAlgo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SortingAlgo\obj\Debug\net8.0\Assignments_SortingAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SortingAlgo\obj\Debug\net8.0\Assignments_SortingAlgo.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SortingAlgo\obj\Debug\net8.0\refint\Assignments_SortingAlgo.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SortingAlgo\obj\Debug\net8.0\Assignments_SortingAlgo.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SortingAlgo\obj\Debug\net8.0\Assignments_SortingAlgo.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_SortingAlgo\obj\Debug\net8.0\ref\Assignments_SortingAlgo.dll
