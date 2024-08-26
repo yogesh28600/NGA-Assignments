@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Graph\bin\Debug\net8.0\Assignments_Graph.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Graph\bin\Debug\net8.0\Assignments_Graph.deps.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Graph\bin\Debug\net8.0\Assignments_Graph.runtimeconfig.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Graph\bin\Debug\net8.0\Assignments_Graph.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Graph\bin\Debug\net8.0\Assignments_Graph.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Graph\obj\Debug\net8.0\Assignments_Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Graph\obj\Debug\net8.0\Assignments_Graph.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Graph\obj\Debug\net8.0\Assignments_Graph.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Graph\obj\Debug\net8.0\Assignments_Graph.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Graph\obj\Debug\net8.0\Assignments_Graph.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Graph\obj\Debug\net8.0\refint\Assignments_Graph.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Graph\obj\Debug\net8.0\Assignments_Graph.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Graph\obj\Debug\net8.0\Assignments_Graph.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Graph\obj\Debug\net8.0\ref\Assignments_Graph.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Dijkstra_Algo\obj\Debug\net8.0\Assignments_Dijkstra_Algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Dijkstra_Algo\obj\Debug\net8.0\Assignments_Dijkstra_Algo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Dijkstra_Algo\obj\Debug\net8.0\Assignments_Dijkstra_Algo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Dijkstra_Algo\obj\Debug\net8.0\Assignments_Dijkstra_Algo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Dijkstra_Algo\bin\Debug\net8.0\Assignments_Dijkstra_Algo.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Dijkstra_Algo\bin\Debug\net8.0\Assignments_Dijkstra_Algo.deps.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Dijkstra_Algo\bin\Debug\net8.0\Assignments_Dijkstra_Algo.runtimeconfig.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Dijkstra_Algo\bin\Debug\net8.0\Assignments_Dijkstra_Algo.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Dijkstra_Algo\bin\Debug\net8.0\Assignments_Dijkstra_Algo.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Dijkstra_Algo\obj\Debug\net8.0\Assignments_Dijkstra_Algo.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Dijkstra_Algo\obj\Debug\net8.0\refint\Assignments_Dijkstra_Algo.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Dijkstra_Algo\obj\Debug\net8.0\Assignments_Dijkstra_Algo.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Dijkstra_Algo\obj\Debug\net8.0\Assignments_Dijkstra_Algo.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Assignments_Dijkstra_Algo\obj\Debug\net8.0\ref\Assignments_Dijkstra_Algo.dll
