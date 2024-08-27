@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bellman_Ford_Algorithm\bin\Debug\net8.0\Bellman_Ford_Algorithm.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bellman_Ford_Algorithm\bin\Debug\net8.0\Bellman_Ford_Algorithm.deps.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bellman_Ford_Algorithm\bin\Debug\net8.0\Bellman_Ford_Algorithm.runtimeconfig.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bellman_Ford_Algorithm\bin\Debug\net8.0\Bellman_Ford_Algorithm.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bellman_Ford_Algorithm\bin\Debug\net8.0\Bellman_Ford_Algorithm.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bellman_Ford_Algorithm\obj\Debug\net8.0\Bellman_Ford_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bellman_Ford_Algorithm\obj\Debug\net8.0\Bellman_Ford_Algorithm.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bellman_Ford_Algorithm\obj\Debug\net8.0\Bellman_Ford_Algorithm.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bellman_Ford_Algorithm\obj\Debug\net8.0\Bellman_Ford_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bellman_Ford_Algorithm\obj\Debug\net8.0\Bellman_Ford_Algorithm.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bellman_Ford_Algorithm\obj\Debug\net8.0\refint\Bellman_Ford_Algorithm.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bellman_Ford_Algorithm\obj\Debug\net8.0\Bellman_Ford_Algorithm.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bellman_Ford_Algorithm\obj\Debug\net8.0\Bellman_Ford_Algorithm.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bellman_Ford_Algorithm\obj\Debug\net8.0\ref\Bellman_Ford_Algorithm.dll

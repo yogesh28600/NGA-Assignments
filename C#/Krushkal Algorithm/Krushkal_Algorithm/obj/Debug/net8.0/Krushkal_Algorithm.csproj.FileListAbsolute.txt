@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Krushkal_Algorithm\bin\Debug\net8.0\Krushkal_Algorithm.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Krushkal_Algorithm\bin\Debug\net8.0\Krushkal_Algorithm.deps.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Krushkal_Algorithm\bin\Debug\net8.0\Krushkal_Algorithm.runtimeconfig.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Krushkal_Algorithm\bin\Debug\net8.0\Krushkal_Algorithm.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Krushkal_Algorithm\bin\Debug\net8.0\Krushkal_Algorithm.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Krushkal_Algorithm\obj\Debug\net8.0\Krushkal_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Krushkal_Algorithm\obj\Debug\net8.0\Krushkal_Algorithm.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Krushkal_Algorithm\obj\Debug\net8.0\Krushkal_Algorithm.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Krushkal_Algorithm\obj\Debug\net8.0\Krushkal_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Krushkal_Algorithm\obj\Debug\net8.0\Krushkal_Algorithm.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Krushkal_Algorithm\obj\Debug\net8.0\refint\Krushkal_Algorithm.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Krushkal_Algorithm\obj\Debug\net8.0\Krushkal_Algorithm.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Krushkal_Algorithm\obj\Debug\net8.0\Krushkal_Algorithm.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Krushkal_Algorithm\obj\Debug\net8.0\ref\Krushkal_Algorithm.dll
