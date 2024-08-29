@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bitwise_Operations\bin\Debug\net8.0\Bitwise_Operations.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bitwise_Operations\bin\Debug\net8.0\Bitwise_Operations.deps.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bitwise_Operations\bin\Debug\net8.0\Bitwise_Operations.runtimeconfig.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bitwise_Operations\bin\Debug\net8.0\Bitwise_Operations.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bitwise_Operations\bin\Debug\net8.0\Bitwise_Operations.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bitwise_Operations\obj\Debug\net8.0\Bitwise_Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bitwise_Operations\obj\Debug\net8.0\Bitwise_Operations.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bitwise_Operations\obj\Debug\net8.0\Bitwise_Operations.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bitwise_Operations\obj\Debug\net8.0\Bitwise_Operations.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bitwise_Operations\obj\Debug\net8.0\Bitwise_Operations.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bitwise_Operations\obj\Debug\net8.0\refint\Bitwise_Operations.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bitwise_Operations\obj\Debug\net8.0\Bitwise_Operations.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bitwise_Operations\obj\Debug\net8.0\Bitwise_Operations.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Bitwise_Operations\obj\Debug\net8.0\ref\Bitwise_Operations.dll
