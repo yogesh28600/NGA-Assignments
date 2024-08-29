@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Account_Manager\bin\Debug\net8.0\Account_Manager.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Account_Manager\bin\Debug\net8.0\Account_Manager.deps.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Account_Manager\bin\Debug\net8.0\Account_Manager.runtimeconfig.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Account_Manager\bin\Debug\net8.0\Account_Manager.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Account_Manager\bin\Debug\net8.0\Account_Manager.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Account_Manager\obj\Debug\net8.0\Account_Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Account_Manager\obj\Debug\net8.0\Account_Manager.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Account_Manager\obj\Debug\net8.0\Account_Manager.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Account_Manager\obj\Debug\net8.0\Account_Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Account_Manager\obj\Debug\net8.0\Account_Manager.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Account_Manager\obj\Debug\net8.0\refint\Account_Manager.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Account_Manager\obj\Debug\net8.0\Account_Manager.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Account_Manager\obj\Debug\net8.0\Account_Manager.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Account_Manager\obj\Debug\net8.0\ref\Account_Manager.dll
