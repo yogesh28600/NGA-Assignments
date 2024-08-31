@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Job_Sequence_Algo/1.0.0": {
+        "runtime": {
+          "Job_Sequence_Algo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Job_Sequence_Algo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Knakspak_Algorithm\obj\Debug\net8.0\Knakspak_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Knakspak_Algorithm\obj\Debug\net8.0\Knakspak_Algorithm.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Knakspak_Algorithm\obj\Debug\net8.0\Knakspak_Algorithm.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Knakspak_Algorithm\obj\Debug\net8.0\Knakspak_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Knakspak_Algorithm\bin\Debug\net8.0\Knakspak_Algorithm.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Knakspak_Algorithm\bin\Debug\net8.0\Knakspak_Algorithm.deps.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Knakspak_Algorithm\bin\Debug\net8.0\Knakspak_Algorithm.runtimeconfig.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Knakspak_Algorithm\bin\Debug\net8.0\Knakspak_Algorithm.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Knakspak_Algorithm\bin\Debug\net8.0\Knakspak_Algorithm.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Knakspak_Algorithm\obj\Debug\net8.0\Knakspak_Algorithm.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Knakspak_Algorithm\obj\Debug\net8.0\refint\Knakspak_Algorithm.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Knakspak_Algorithm\obj\Debug\net8.0\Knakspak_Algorithm.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Knakspak_Algorithm\obj\Debug\net8.0\Knakspak_Algorithm.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Knakspak_Algorithm\obj\Debug\net8.0\ref\Knakspak_Algorithm.dll

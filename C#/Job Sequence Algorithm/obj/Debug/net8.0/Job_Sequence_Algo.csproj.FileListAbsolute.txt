@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Travelling_Salesman_Algorithm\bin\Debug\net8.0\Job_Sequence_Algo.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Travelling_Salesman_Algorithm\bin\Debug\net8.0\Job_Sequence_Algo.deps.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Travelling_Salesman_Algorithm\bin\Debug\net8.0\Job_Sequence_Algo.runtimeconfig.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Travelling_Salesman_Algorithm\bin\Debug\net8.0\Job_Sequence_Algo.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Travelling_Salesman_Algorithm\bin\Debug\net8.0\Job_Sequence_Algo.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Travelling_Salesman_Algorithm\obj\Debug\net8.0\Job_Sequence_Algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Travelling_Salesman_Algorithm\obj\Debug\net8.0\Job_Sequence_Algo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Travelling_Salesman_Algorithm\obj\Debug\net8.0\Job_Sequence_Algo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Travelling_Salesman_Algorithm\obj\Debug\net8.0\Job_Sequence_Algo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Travelling_Salesman_Algorithm\obj\Debug\net8.0\Job_Sequence_Algo.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Travelling_Salesman_Algorithm\obj\Debug\net8.0\refint\Job_Sequence_Algo.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Travelling_Salesman_Algorithm\obj\Debug\net8.0\Job_Sequence_Algo.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Travelling_Salesman_Algorithm\obj\Debug\net8.0\Job_Sequence_Algo.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Travelling_Salesman_Algorithm\obj\Debug\net8.0\ref\Job_Sequence_Algo.dll
