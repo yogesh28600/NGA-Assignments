@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Longest_Substring\bin\Debug\net8.0\Longest_Substring.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Longest_Substring\bin\Debug\net8.0\Longest_Substring.deps.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Longest_Substring\bin\Debug\net8.0\Longest_Substring.runtimeconfig.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Longest_Substring\bin\Debug\net8.0\Longest_Substring.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Longest_Substring\bin\Debug\net8.0\Longest_Substring.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Longest_Substring\obj\Debug\net8.0\Longest_Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Longest_Substring\obj\Debug\net8.0\Longest_Substring.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Longest_Substring\obj\Debug\net8.0\Longest_Substring.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Longest_Substring\obj\Debug\net8.0\Longest_Substring.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Longest_Substring\obj\Debug\net8.0\Longest_Substring.sourcelink.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Longest_Substring\obj\Debug\net8.0\Longest_Substring.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Longest_Substring\obj\Debug\net8.0\refint\Longest_Substring.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Longest_Substring\obj\Debug\net8.0\Longest_Substring.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Longest_Substring\obj\Debug\net8.0\Longest_Substring.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Longest_Substring\obj\Debug\net8.0\ref\Longest_Substring.dll
