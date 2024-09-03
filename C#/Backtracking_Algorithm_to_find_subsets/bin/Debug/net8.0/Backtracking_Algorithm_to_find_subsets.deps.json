@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Backtracking_Algorithm_to_find_subsets/1.0.0": {
+        "runtime": {
+          "Backtracking_Algorithm_to_find_subsets.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Backtracking_Algorithm_to_find_subsets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

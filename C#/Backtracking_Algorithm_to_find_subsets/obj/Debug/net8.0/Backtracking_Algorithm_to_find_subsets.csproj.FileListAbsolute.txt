@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Backtracking_Algorithm_to_find_subsets\bin\Debug\net8.0\Backtracking_Algorithm_to_find_subsets.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Backtracking_Algorithm_to_find_subsets\bin\Debug\net8.0\Backtracking_Algorithm_to_find_subsets.deps.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Backtracking_Algorithm_to_find_subsets\bin\Debug\net8.0\Backtracking_Algorithm_to_find_subsets.runtimeconfig.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Backtracking_Algorithm_to_find_subsets\bin\Debug\net8.0\Backtracking_Algorithm_to_find_subsets.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Backtracking_Algorithm_to_find_subsets\bin\Debug\net8.0\Backtracking_Algorithm_to_find_subsets.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Backtracking_Algorithm_to_find_subsets\obj\Debug\net8.0\Backtracking_Algorithm_to_find_subsets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Backtracking_Algorithm_to_find_subsets\obj\Debug\net8.0\Backtracking_Algorithm_to_find_subsets.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Backtracking_Algorithm_to_find_subsets\obj\Debug\net8.0\Backtracking_Algorithm_to_find_subsets.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Backtracking_Algorithm_to_find_subsets\obj\Debug\net8.0\Backtracking_Algorithm_to_find_subsets.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Backtracking_Algorithm_to_find_subsets\obj\Debug\net8.0\Backtracking_Algorithm_to_find_subsets.sourcelink.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Backtracking_Algorithm_to_find_subsets\obj\Debug\net8.0\Backtracking_Algorithm_to_find_subsets.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Backtracking_Algorithm_to_find_subsets\obj\Debug\net8.0\refint\Backtracking_Algorithm_to_find_subsets.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Backtracking_Algorithm_to_find_subsets\obj\Debug\net8.0\Backtracking_Algorithm_to_find_subsets.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Backtracking_Algorithm_to_find_subsets\obj\Debug\net8.0\Backtracking_Algorithm_to_find_subsets.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Backtracking_Algorithm_to_find_subsets\obj\Debug\net8.0\ref\Backtracking_Algorithm_to_find_subsets.dll

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\NQueens_Algorithm\bin\Debug\net8.0\NQueens_Algorithm.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\NQueens_Algorithm\bin\Debug\net8.0\NQueens_Algorithm.deps.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\NQueens_Algorithm\bin\Debug\net8.0\NQueens_Algorithm.runtimeconfig.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\NQueens_Algorithm\bin\Debug\net8.0\NQueens_Algorithm.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\NQueens_Algorithm\bin\Debug\net8.0\NQueens_Algorithm.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\NQueens_Algorithm\obj\Debug\net8.0\NQueens_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\NQueens_Algorithm\obj\Debug\net8.0\NQueens_Algorithm.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\NQueens_Algorithm\obj\Debug\net8.0\NQueens_Algorithm.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\NQueens_Algorithm\obj\Debug\net8.0\NQueens_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\NQueens_Algorithm\obj\Debug\net8.0\NQueens_Algorithm.sourcelink.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\NQueens_Algorithm\obj\Debug\net8.0\NQueens_Algorithm.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\NQueens_Algorithm\obj\Debug\net8.0\refint\NQueens_Algorithm.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\NQueens_Algorithm\obj\Debug\net8.0\NQueens_Algorithm.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\NQueens_Algorithm\obj\Debug\net8.0\NQueens_Algorithm.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\NQueens_Algorithm\obj\Debug\net8.0\ref\NQueens_Algorithm.dll
