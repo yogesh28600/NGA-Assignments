@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Rat_in_Maze\bin\Debug\net8.0\Rat_in_Maze.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Rat_in_Maze\bin\Debug\net8.0\Rat_in_Maze.deps.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Rat_in_Maze\bin\Debug\net8.0\Rat_in_Maze.runtimeconfig.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Rat_in_Maze\bin\Debug\net8.0\Rat_in_Maze.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Rat_in_Maze\bin\Debug\net8.0\Rat_in_Maze.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Rat_in_Maze\obj\Debug\net8.0\Rat_in_Maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Rat_in_Maze\obj\Debug\net8.0\Rat_in_Maze.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Rat_in_Maze\obj\Debug\net8.0\Rat_in_Maze.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Rat_in_Maze\obj\Debug\net8.0\Rat_in_Maze.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Rat_in_Maze\obj\Debug\net8.0\Rat_in_Maze.sourcelink.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Rat_in_Maze\obj\Debug\net8.0\Rat_in_Maze.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Rat_in_Maze\obj\Debug\net8.0\refint\Rat_in_Maze.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Rat_in_Maze\obj\Debug\net8.0\Rat_in_Maze.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Rat_in_Maze\obj\Debug\net8.0\Rat_in_Maze.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Rat_in_Maze\obj\Debug\net8.0\ref\Rat_in_Maze.dll
