@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_Joins\bin\Debug\net8.0\Linq_Joins.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_Joins\bin\Debug\net8.0\Linq_Joins.deps.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_Joins\bin\Debug\net8.0\Linq_Joins.runtimeconfig.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_Joins\bin\Debug\net8.0\Linq_Joins.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_Joins\bin\Debug\net8.0\Linq_Joins.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_Joins\obj\Debug\net8.0\Linq_Joins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_Joins\obj\Debug\net8.0\Linq_Joins.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_Joins\obj\Debug\net8.0\Linq_Joins.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_Joins\obj\Debug\net8.0\Linq_Joins.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_Joins\obj\Debug\net8.0\Linq_Joins.sourcelink.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_Joins\obj\Debug\net8.0\Linq_Joins.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_Joins\obj\Debug\net8.0\refint\Linq_Joins.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_Joins\obj\Debug\net8.0\Linq_Joins.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_Joins\obj\Debug\net8.0\Linq_Joins.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_Joins\obj\Debug\net8.0\ref\Linq_Joins.dll

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_to_XML\bin\Debug\net8.0\Linq_to_XML.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_to_XML\bin\Debug\net8.0\Linq_to_XML.deps.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_to_XML\bin\Debug\net8.0\Linq_to_XML.runtimeconfig.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_to_XML\bin\Debug\net8.0\Linq_to_XML.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_to_XML\bin\Debug\net8.0\Linq_to_XML.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_to_XML\obj\Debug\net8.0\Linq_to_XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_to_XML\obj\Debug\net8.0\Linq_to_XML.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_to_XML\obj\Debug\net8.0\Linq_to_XML.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_to_XML\obj\Debug\net8.0\Linq_to_XML.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_to_XML\obj\Debug\net8.0\Linq_to_XML.sourcelink.json
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_to_XML\obj\Debug\net8.0\Linq_to_XML.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_to_XML\obj\Debug\net8.0\refint\Linq_to_XML.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_to_XML\obj\Debug\net8.0\Linq_to_XML.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_to_XML\obj\Debug\net8.0\Linq_to_XML.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Linq_to_XML\obj\Debug\net8.0\ref\Linq_to_XML.dll
