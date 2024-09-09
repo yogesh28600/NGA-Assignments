@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Reflections\bin\Debug\Reflections.exe.config
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Reflections\bin\Debug\Reflections.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Reflections\bin\Debug\Reflections.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Reflections\obj\Debug\Reflections.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Reflections\obj\Debug\Reflections.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Reflections\obj\Debug\Reflections.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Reflections\obj\Debug\Reflections.pdb
