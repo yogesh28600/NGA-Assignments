@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\Linq_to_SQL\obj\Debug\Linq_to_SQL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\Linq_to_SQL\obj\Debug\Linq_to_SQL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\Linq_to_SQL\bin\Debug\Linq_to_SQL.exe.config
+C:\Users\Administrator\Desktop\24NAG2219_U08\Linq_to_SQL\bin\Debug\Linq_to_SQL.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\Linq_to_SQL\bin\Debug\Linq_to_SQL.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\Linq_to_SQL\obj\Debug\Linq_to_SQL.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\Linq_to_SQL\obj\Debug\Linq_to_SQL.pdb

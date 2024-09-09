@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="EmployesDB" Class="EmployeeDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-TIC5DM4;Initial Catalog=EmployesDB;Integrated Security=True;Encrypt=False" SettingsObjectName="Linq_to_SQL.Properties.Settings" SettingsPropertyName="EmployesDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Departments" Member="Departments">
+    <Type Name="Department">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DeptName" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Association Name="Department_Employe" Member="Employes" ThisKey="Id" OtherKey="DeptId" Type="Employe" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Employes" Member="Employes">
+    <Type Name="Employe">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="EmployeName" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="Gender" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="Age" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Salary" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="DeptId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Department_Employe" Member="Department" ThisKey="DeptId" OtherKey="Id" Type="Department" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>
