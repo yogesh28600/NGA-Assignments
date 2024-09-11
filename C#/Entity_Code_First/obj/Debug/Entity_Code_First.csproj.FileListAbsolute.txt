@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entity_Code_First\bin\Debug\Entity_Code_First.exe.config
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entity_Code_First\bin\Debug\Entity_Code_First.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entity_Code_First\bin\Debug\Entity_Code_First.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entity_Code_First\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entity_Code_First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entity_Code_First\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entity_Code_First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entity_Code_First\obj\Debug\Entity_Code_First.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entity_Code_First\obj\Debug\Entity_Code_First.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entity_Code_First\obj\Debug\Entity_C.A1B6E966.Up2Date
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entity_Code_First\obj\Debug\Entity_Code_First.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entity_Code_First\obj\Debug\Entity_Code_First.pdb

@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entitty_DB_First\bin\Debug\Entitty_DB_First.exe.config
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entitty_DB_First\bin\Debug\Entitty_DB_First.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entitty_DB_First\bin\Debug\Entitty_DB_First.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entitty_DB_First\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entitty_DB_First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entitty_DB_First\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entitty_DB_First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entitty_DB_First\obj\Debug\Entitty_DB_First.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entitty_DB_First\obj\Debug\Entitty_DB_First.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entitty_DB_First\obj\Debug\Entitty_.3D7B8D71.Up2Date
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entitty_DB_First\obj\Debug\Entitty_DB_First.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\Entitty_DB_First\obj\Debug\Entitty_DB_First.pdb
