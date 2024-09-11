@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\ADO.NET\bin\Debug\ADO.NET.exe.config
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\ADO.NET\bin\Debug\ADO.NET.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\ADO.NET\bin\Debug\ADO.NET.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\ADO.NET\obj\Debug\ADO.NET.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\ADO.NET\obj\Debug\ADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\ADO.NET\obj\Debug\ADO.NET.exe
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\ADO.NET\obj\Debug\ADO.NET.pdb
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\ADO.NET\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\ADO.NET\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Administrator\Desktop\24NAG2219_U08\C#\ADO.NET\obj\Debug\ADO.NET.csproj.Up2Date
