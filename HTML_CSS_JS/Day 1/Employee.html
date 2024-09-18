@@ -99,7 +99,7 @@
                 <div class="row">
                     <div class="col">
                         <div class="form-floating mb-3">
-                            <input type="date" class="form-control" id="" required>
+                            <input type="date" class="form-control" id="dob" required>
                             <label for="">Date of Birth</label>
                             <div class="invalid-feedback">
                                 DOB is required
@@ -110,7 +110,7 @@
                 <div class="row">
                     <div class="col">
                         <div class="form-floating mb-3">
-                            <input type="number" class="form-control" id="" placeholder="Age" required>
+                            <input type="number" class="form-control" id="age" placeholder="Age" required>
                             <label for="">Age</label>
                             <div class="invalid-feedback">
                                 Age is required
@@ -128,7 +128,7 @@
                 <div class="row mt-3">
                     <div class="col">
                         <div class="mb-3">
-                            <input class="form-control" type="file" id="formFile" required>
+                            <input class="form-control" type="file" id="formFile" >
                             <div class="invalid-feedback">
                                 Profile Photo is required
                             </div>
@@ -167,14 +167,16 @@
             <div class="col">
                 <div class="d-flex">
                     <label for="experience" class="form-label mx-2">Experience</label>
-                    <input type="range" class="form-range" min="0" max="5" step="0.5" id="Experience" >
+                    <input type="range" class="form-range" min="0" max="50" step="0.5" id="Experience" >
                 </div>
             </div>
         </div>
+        <h6 class="invisible" id="ErrorHeading">Check Below Errors</h6>
+        <ol class="invisible" id="eList"></ol>
         <div class="row mt-5">
             <div class="col"></div>
             <div class="col">
-                <button type="submit" class="btn btn-primary">Add Employee</button>
+                <input type="submit" class="btn btn-primary" onclick="addEmployee()"/>
             </div>
             <div class="col"></div>
         </div>

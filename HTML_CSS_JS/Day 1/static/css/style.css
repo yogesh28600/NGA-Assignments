@@ -5,3 +5,10 @@ a{
     font-family:fantasy;
     font-size:xx-large;
 }
+.error{
+    display: block;
+    color: red;
+}
+.invisible{
+    display: none;
+}
