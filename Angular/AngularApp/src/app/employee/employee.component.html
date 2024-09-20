@@ -1,0 +1,35 @@
+<div class="container shadow-lg p-5" *ngIf="employee">
+    <h3 class="row">Employee Details</h3>
+    <div class="row">
+        <div class="col">
+            <div class="form-floating mb-3">
+                <input type="text" class="form-control" id="id" placeholder="First id" value="{{employee.id}}" disabled>
+                <label for="id">id</label>
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-floating mb-3">
+                <input type="text" class="form-control" id="Name" placeholder="First Name" value="{{employee.Name}}" disabled>
+                <label for="Name">Name</label>
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-floating mb-3">
+                <input type="text" class="form-control" id="Gender" placeholder="First Gender" value="{{employee.Gender}}" disabled>
+                <label for="Gender">Gender</label>
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-floating mb-3">
+                <input type="text" class="form-control" id="Age" placeholder="First Age" value="{{employee.Age}}" disabled>
+                <label for="Age">Age</label>
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-floating mb-3">
+                <input type="text" class="form-control" id="Country" placeholder="First Country" value="{{employee.Country}}" disabled>
+                <label for="Country">Country</label>
+            </div>
+        </div>
+    </div>
+</div>

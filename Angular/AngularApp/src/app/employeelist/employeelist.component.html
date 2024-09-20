@@ -1,0 +1,22 @@
+<div class="container shadow-lg p-5 mb-5">
+    <h1 class="row mb-5">Employee List</h1>
+    <div class="row" *ngFor="let employee of employeeList">
+        <div class="col ">
+            <div class="form-floating mb-3">
+                <input type="text" class="form-control" id="id" placeholder="Name" value="{{employee.id}}" disabled>
+                <label for="id">id</label>
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-floating mb-3">
+                <input type="text" class="form-control" id="Name" placeholder="First Name" value="{{employee.Name}}" disabled>
+                <label for="Name">Name</label>
+            </div>
+        </div>
+        <div class="col">
+            <button class="btn btn-primary" (click)="viewEmployee(employee.id)">View</button>
+        </div>
+    </div>
+</div>
+<app-employee *ngIf="showEmployee" [employee] = "employee" ></app-employee>
+
