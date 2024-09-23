@@ -1,22 +1,25 @@
 <div class="container shadow-lg p-5 mb-5">
-    <h1 class="row mb-5">Employee List</h1>
-    <div class="row" *ngFor="let employee of employeeList">
-        <div class="col ">
-            <div class="form-floating mb-3">
-                <input type="text" class="form-control" id="id" placeholder="Name" value="{{employee.id}}" disabled>
-                <label for="id">id</label>
-            </div>
-        </div>
-        <div class="col">
-            <div class="form-floating mb-3">
-                <input type="text" class="form-control" id="Name" placeholder="First Name" value="{{employee.Name}}" disabled>
-                <label for="Name">Name</label>
-            </div>
-        </div>
-        <div class="col">
-            <button class="btn btn-primary" (click)="viewEmployee(employee.id)">View</button>
-        </div>
-    </div>
+  <h1 class="row mb-5">Employee List</h1>
+  <table class="table table-bordered border-primary">
+    <thead>
+      <tr>
+        <th>Id</th>
+        <th>First Name</th>
+        <th>Experience</th>
+        <th>Gender</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let employee of employeeList">
+        <td>{{ employee.id }}</td>
+        <td>{{ employee.fName }}</td>
+        <td>{{ employee.Experience }}</td>
+        <td>{{ employee.Gender }}</td>
+        <td>
+          <a routerLink="/employee/{{ employee.id }}">Edit</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
-<app-employee *ngIf="showEmployee" [employee] = "employee" ></app-employee>
-
