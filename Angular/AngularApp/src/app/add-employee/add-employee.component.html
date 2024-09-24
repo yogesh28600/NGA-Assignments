@@ -18,6 +18,14 @@
             formControlName="id"
           />
           <label for="Id">Employee Id</label>
+          <span
+            style="color: red"
+            *ngIf="
+              employeeForm.controls['id'].touched &&
+              employeeForm.controls['id'].hasError('required')
+            "
+            >Id is required</span
+          >
         </div>
       </div>
       <div class="col">
@@ -31,6 +39,14 @@
             formControlName="fName"
           />
           <label for="fName">First Name</label>
+          <span
+            style="color: red"
+            *ngIf="
+              employeeForm.controls['fName'].touched &&
+              employeeForm.controls['fName'].hasError('required')
+            "
+            >First Name is required</span
+          >
         </div>
       </div>
       <div class="col">
@@ -58,6 +74,14 @@
             formControlName="lName"
           />
           <label for="lName">Last Name</label>
+          <span
+            style="color: red"
+            *ngIf="
+              employeeForm.controls['lName'].touched &&
+              employeeForm.controls['lName'].hasError('required')
+            "
+            >Last Name is required</span
+          >
         </div>
       </div>
       <div class="col">
@@ -71,6 +95,14 @@
             formControlName="Age"
           />
           <label for="Age">Age</label>
+          <span
+            style="color: red"
+            *ngIf="
+              employeeForm.controls['Age'].touched &&
+              employeeForm.controls['Age'].hasError('max')
+            "
+            >Age should be less than 100</span
+          >
         </div>
       </div>
       <div class="col">
@@ -109,7 +141,6 @@
           name="Country"
           formControlName="Country"
         >
-          <option selected>Open this select menu</option>
           <option value="USA">USA</option>
           <option value="UK">UK</option>
           <option value="Canada">Canada</option>
@@ -120,6 +151,14 @@
           <option value="Mexico">Mexico</option>
           <option value="Italy">Italy</option>
         </select>
+        <span
+          style="color: red"
+          *ngIf="
+            employeeForm.controls['Country'].touched &&
+            employeeForm.controls['Country'].hasError('required')
+          "
+          >Country is required</span
+        >
       </div>
       <div class="col">
         <div class="form-check">
@@ -157,6 +196,22 @@
             formControlName="email"
           />
           <label for="fName">Email</label>
+          <span
+            style="color: red"
+            *ngIf="
+              employeeForm.controls['email'].touched &&
+              employeeForm.controls['email'].hasError('required')
+            "
+            >email is required</span
+          >
+          <span
+            style="color: red"
+            *ngIf="
+              employeeForm.controls['email'].touched &&
+              employeeForm.controls['email'].hasError('email')
+            "
+            >not a valid email</span
+          >
         </div>
       </div>
     </div>

@@ -24,14 +24,15 @@ export class AddEmployeeComponent {
   ) {
     this.employeeForm = this._form.group({
       id: ['', Validators.required],
-      fName: [''],
+      fName: ['', Validators.required],
       mName: [''],
-      lName: [''],
-      Age: [0],
+      lName: ['', Validators.required],
+      Age: [0, Validators.max(100)],
       Gender: [''],
+      Country: ['', Validators.required],
       isExperienced: [false],
       Experience: [0],
-      email: [''],
+      email: ['', [Validators.required, Validators.email]],
     });
   }
   saveEmployee(employee: FormGroup) {
