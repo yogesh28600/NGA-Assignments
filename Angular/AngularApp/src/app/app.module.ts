@@ -9,9 +9,11 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { EmployeeComponent } from './employee/employee.component';
 import { EmployeelistComponent } from './employeelist/employeelist.component';
 import { AddEmployeeComponent } from './add-employee/add-employee.component';
-import { FormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 import { EmailValidation } from '../validators/email-validation';
+import { provideHttpClient } from '@angular/common/http';
+import { EmployeeService } from './employee.service';
 
 @NgModule({
   declarations: [
@@ -23,8 +25,8 @@ import { EmailValidation } from '../validators/email-validation';
     PageNotFoundComponent,
     EmailValidation,
   ],
-  imports: [BrowserModule, AppRoutingModule, FormsModule],
-  providers: [provideClientHydration()],
+  imports: [BrowserModule, AppRoutingModule, FormsModule, ReactiveFormsModule],
+  providers: [provideClientHydration(), provideHttpClient(), EmployeeService],
   bootstrap: [AppComponent],
 })
 export class AppModule {}

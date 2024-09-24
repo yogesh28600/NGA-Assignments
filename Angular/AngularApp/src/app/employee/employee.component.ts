@@ -1,8 +1,8 @@
 import { Component, Input } from '@angular/core';
 import { Employee } from '../../types';
-import { ActivatedRoute } from '@angular/router';
+import { ActivatedRoute, Router } from '@angular/router';
 import { EmployeeService } from '../employee.service';
-import { NgForm } from '@angular/forms';
+import { AbstractControl, NgForm } from '@angular/forms';
 
 @Component({
   selector: 'app-employee',
@@ -13,12 +13,20 @@ export class EmployeeComponent {
   employee: Employee | undefined;
   constructor(
     private router: ActivatedRoute,
-    private employees: EmployeeService
+    private employees: EmployeeService,
+    private _navRouter: Router
   ) {
     var id: Number = this.router.snapshot.params['emp_id'];
-    this.employee = this.employees.getEmployee(id);
+    this.employees.getEmployee(id).subscribe((data) => {
+      this.employee = data;
+    });
   }
   saveEmployee(employeeForm: NgForm) {
-    console.log(employeeForm.value);
+    if (employeeForm.valid) {
+      this.employees.updateEmployee(employeeForm.value).subscribe((data) => {
+        console.log(data);
+      });
+      this._navRouter.navigate(['employees']);
+    }
   }
 }

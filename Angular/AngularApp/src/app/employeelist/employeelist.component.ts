@@ -8,8 +8,10 @@ import { EmployeeService } from '../employee.service';
   styleUrl: './employeelist.component.css',
 })
 export class EmployeelistComponent {
-  employeeList: Employee[];
+  employeeList: Employee[] = [];
   constructor(private emp_service: EmployeeService) {
-    this.employeeList = this.emp_service.getEmployees();
+    this.emp_service.getEmployees().subscribe((data) => {
+      this.employeeList = data;
+    });
   }
 }
