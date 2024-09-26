@@ -7,21 +7,20 @@ import { Observable } from 'rxjs';
   providedIn: 'root',
 })
 export class EmployeeService {
+  url: string = 'http://localhost:3000/employees/';
   constructor(private _httpClient: HttpClient) {}
   getEmployees(): Observable<Employee[]> {
-    const url: string = 'http://localhost:3000/employees';
-    return this._httpClient.get<Employee[]>(url);
+    return this._httpClient.get<Employee[]>(this.url);
   }
   getEmployee(id: Number): Observable<Employee> {
-    const url: string = 'http://localhost:3000/employees/' + id;
+    const url: string = this.url + id;
     return this._httpClient.get<Employee>(url);
   }
   addEmployee(emp: Employee): Observable<Employee> {
-    const url: string = 'http://localhost:3000/employees';
-    return this._httpClient.post<Employee>(url, emp);
+    return this._httpClient.post<Employee>(this.url, emp);
   }
   updateEmployee(emp: Employee): Observable<Employee> {
-    const url: string = 'http://localhost:3000/employees/' + emp.id;
+    const url: string = this.url + emp.id;
     return this._httpClient.put<Employee>(url, emp);
   }
 }

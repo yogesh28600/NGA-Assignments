@@ -1,0 +1,48 @@
+﻿@model IEnumerable<AspCoreWebApp.Models.EmployeeModel>
+@{
+    ViewData["Title"] = "Employee List";
+}
+<h1>List of Employees</h1>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table table-bordered border-primary">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>Name</th>
+            <th>
+                @Html.DisplayNameFor(model => model.email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.phoneNumber)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+               @($"{item.firstName} {item.middleName} {item.lastName}")
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.phoneNumber)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "EditEmployee", new { id=item.Id }) |
+                @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+                @Html.ActionLink("Delete", "DeleteEmployee", new { id = item.Id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

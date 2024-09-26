@@ -1,0 +1,106 @@
+﻿@model AspCoreWebApp.Models.EmployeeModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<style>
+    .error-msg {
+        color: red;
+    }
+</style>
+<h1>Edit Employee</h1>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+@using (Html.BeginForm())
+{
+    <div class="row mb-2">
+        <div class="col">
+            <div class="form-group">
+                @Html.LabelFor(x => x.firstName)
+                @Html.TextBoxFor(x => x.firstName,"", new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.firstName, "", new { @class = "error-msg" })
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-group">
+                @Html.LabelFor(x => x.middleName)
+                @Html.TextBoxFor(x => x.middleName, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.middleName, "", new { @class = "error-msg" })
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-group">
+                @Html.LabelFor(x => x.lastName)
+                @Html.TextBoxFor(x => x.lastName, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.lastName, "", new { @class = "error-msg" })
+            </div>
+        </div>
+    </div>
+    <div class="row mb-2">
+        <div class="col">
+            <div class="form-group">
+                @Html.LabelFor(x => x.email)
+                @Html.TextBoxFor(x => x.email, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.email, "", new { @class = "error-msg" })
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-group">
+                @Html.LabelFor(x => x.age)
+                @Html.TextBoxFor(x => x.age, "", new { type = "number", @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.age, "", new { @class = "error-msg" })
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-group">
+                @Html.LabelFor(x => x.phoneNumber)
+                @Html.TextBoxFor(x => x.phoneNumber, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.phoneNumber, "", new { @class = "error-msg" })
+            </div>
+        </div>
+    </div>
+    <div class="row mb-2">
+        <div class="col">
+            <div class="form-group">
+                @Html.LabelFor(x => x.address)
+                @Html.TextBoxFor(x => x.address, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.address, "", new { @class = "error-msg" })
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-group">
+                @Html.LabelFor(x => x.country)
+                @Html.DropDownList("country", new List<SelectListItem>() { new SelectListItem("India", "India"), new SelectListItem("USA", "USA"), new SelectListItem("UK", "UK") }, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.country, "", new { @class = "error-msg" })
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-group">
+                @Html.LabelFor(x => x.dob)
+                @Html.TextBoxFor(x => x.dob, "", new { type = "date", @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.dob, "", new { @class = "error-msg" })
+            </div>
+        </div>
+    </div>
+    <div class="row mb-2">
+        <div class="col-4">
+            @Html.LabelFor(x => x.salary)
+            @Html.TextBoxFor(x => x.salary, "", new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.salary, "", new { @class = "error-msg" })
+        </div>
+    </div>
+    <div class="row d-flex justify-content-center mt-2">
+        <div class="col-3">
+            <button type="submit" class="btn btn-primary">Add Employee</button>
+        </div>
+    </div>
+}
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
