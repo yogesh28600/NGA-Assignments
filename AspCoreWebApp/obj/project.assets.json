@@ -5956,11 +5956,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\AspCoreWebApp\\AspCoreWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspCoreWebApp\\AspCoreWebApp.csproj",
       "projectName": "AspCoreWebApp",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\AspCoreWebApp\\AspCoreWebApp.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspCoreWebApp\\AspCoreWebApp.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\AspCoreWebApp\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspCoreWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

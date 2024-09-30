@@ -1,0 +1,38 @@
+﻿@model LoginViewModel;
+<style>
+    .error-msg {
+        color: red;
+    }
+
+    .width-full {
+        width: 100%;
+    }
+</style>
+
+<div class="centered d-flex flex-column justify-content-center align-items-center shadow-lg p-4 mt-4">
+    <h1 class="mb-3">Login</h1>
+    <form asp-action="Login" method="post" style="width:100%">
+        <div class="row d-flex flex-column align-items-center gap-4">
+            <div class="col-md-4">
+                @Html.LabelFor(x => x.username)
+                @Html.TextBoxFor(x => x.username, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.username, "", new { @class = "error-msg" })
+            </div>
+            <div class="col-md-4">
+                @Html.LabelFor(x => x.password)
+                @Html.TextBoxFor(x => x.password, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.password, "", new { @class = "error-msg" })
+            </div>
+        </div>
+        <div class="row d-flex justify-content-center mt-5">
+            <div class="col-4">
+                <button class="btn btn-primary">Login</button>
+            </div>
+        </div>
+    </form>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

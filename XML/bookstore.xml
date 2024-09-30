@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<BookStore>
+  <Book>
+    <Title>Java</Title>
+    <Author>John Doe</Author>
+    <Price>150</Price>
+  </Book>
+  <Book>
+    <Title>Python</Title>
+    <Author>John Doe</Author>
+    <Price>200</Price>
+  </Book>
+  <Book>
+    <Title>DotNet</Title>
+    <Author>Mark</Author>
+    <Price>250</Price>
+  </Book>
+  <Book>
+    <Title>Go</Title>
+    <Author>Jack</Author>
+    <Price>300</Price>
+  </Book>
+</BookStore>

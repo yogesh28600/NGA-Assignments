@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9cyCmWaDq0F4P7IFksquQdhpPC1zhxZCsZZTphqx0UVXnM67Q0NqnzKa5NL0eD1Y/tIS/Fk8YFmeo1VAMf1I2w==",
+  "dgSpecHash": "segej8gIB/nZRNTWyzFaInKR8gz28A67U020fwUNgscm/zvxKyINXo5EhApkxqXyrrD9bxM8cXIWCEEd19g84Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\AspCoreWebApp\\AspCoreWebApp.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspCoreWebApp\\AspCoreWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
