@@ -11,6 +11,7 @@ export class EmployeelistComponent {
   employeeList: Employee[] = [];
   constructor(private emp_service: EmployeeService) {
     this.emp_service.getEmployees().subscribe((data) => {
+      console.log(data);
       this.employeeList = data;
     });
   }

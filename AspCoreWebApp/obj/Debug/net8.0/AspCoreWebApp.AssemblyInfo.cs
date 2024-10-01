@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspCoreWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4311cd6dadafb5c02770fcb06a627784e1dce128")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a26fb0938ce16e4b7ab0313fea5f69b7f1eb4c06")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspCoreWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspCoreWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

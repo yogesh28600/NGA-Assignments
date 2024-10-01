@@ -5,17 +5,17 @@
       <tr>
         <th>Id</th>
         <th>First Name</th>
-        <th>Experience</th>
         <th>Gender</th>
+        <th>Phone Number</th>
         <th>Actions</th>
       </tr>
     </thead>
     <tbody>
       <tr *ngFor="let employee of employeeList">
         <td>{{ employee.id }}</td>
-        <td>{{ employee.fName }}</td>
-        <td>{{ employee.Experience }}</td>
-        <td>{{ employee.Gender }}</td>
+        <td>{{ employee.firstname }}</td>
+        <td>{{ employee.gender }}</td>
+        <td>{{ employee.phonenumber }}</td>
         <td>
           <a routerLink="/employee/{{ employee.id }}">Edit</a>
         </td>

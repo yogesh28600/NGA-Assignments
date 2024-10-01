@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspCoreWebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EF18D0DC-4522-408C-88C4-C200063C95B7}|..\\AspEFCore\\AspEFCore.csproj|c:\\users\\administrator\\desktop\\24nag2219_u08\\assignments\\aspefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF18D0DC-4522-408C-88C4-C200063C95B7}|..\\AspEFCore\\AspEFCore.csproj|c:\\users\\administrator\\desktop\\24nag2219_u08\\assignments\\aspefcore\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -13,9 +16,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF18D0DC-4522-408C-88C4-C200063C95B7}|..\\AspEFCore\\AspEFCore.csproj|c:\\users\\administrator\\desktop\\24nag2219_u08\\assignments\\aspefcore\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF18D0DC-4522-408C-88C4-C200063C95B7}|..\\AspEFCore\\AspEFCore.csproj|c:\\users\\administrator\\desktop\\24nag2219_u08\\assignments\\aspefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF18D0DC-4522-408C-88C4-C200063C95B7}|..\\AspEFCore\\AspEFCore.csproj|c:\\users\\administrator\\desktop\\24nag2219_u08\\assignments\\aspefcore\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -34,24 +34,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "..\\AspEFCore\\ViewModels\\LoginViewModel.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\ViewModels\\LoginViewModel.cs",
               "RelativeToolTip": "..\\AspEFCore\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAA8AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAgAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T11:49:10.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T11:49:10.139Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\Views\\User\\Login.cshtml",
               "RelativeDocumentMoniker": "..\\AspEFCore\\Views\\User\\Login.cshtml",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "..\\AspEFCore\\Views\\User\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-27T11:45:43.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T11:45:43.964Z"
             },
             {
               "$type": "Document",
@@ -72,12 +70,11 @@
               "RelativeToolTip": "..\\AspEFCore\\Controllers\\EmployeeController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T11:43:27.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T11:43:27.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\Program.cs",
               "RelativeDocumentMoniker": "..\\AspEFCore\\Program.cs",
@@ -90,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\Views\\User\\Register.cshtml",
               "RelativeDocumentMoniker": "..\\AspEFCore\\Views\\User\\Register.cshtml",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "..\\AspEFCore\\Views\\User\\Register.cshtml",
               "ViewState": "AQIAABQAAAAAAAAAAAAQwCIAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-27T11:13:27.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T11:13:27.976Z"
             },
             {
               "$type": "Document",
@@ -111,12 +107,11 @@
               "RelativeToolTip": "..\\AspEFCore\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T09:35:33.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T09:35:33.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "..\\AspEFCore\\Controllers\\UserController.cs",
@@ -124,8 +119,7 @@
               "RelativeToolTip": "..\\AspEFCore\\Controllers\\UserController.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwCgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T09:30:32.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T09:30:32.451Z"
             },
             {
               "$type": "Document",
@@ -137,8 +131,7 @@
               "RelativeToolTip": "..\\AspEFCore\\ViewModels\\RegisterViewModel.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAQwAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T09:19:49.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T09:19:49.321Z"
             }
           ]
         }
