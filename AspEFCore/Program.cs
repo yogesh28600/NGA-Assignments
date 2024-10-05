@@ -34,7 +34,7 @@ namespace AspEFCore
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=User}/{action=Register}/{id?}");
+                pattern: "{controller=Employee}/{action=Index}/{id?}");
 
             app.Run();
         }

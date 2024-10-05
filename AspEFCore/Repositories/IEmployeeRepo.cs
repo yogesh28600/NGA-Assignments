@@ -6,5 +6,6 @@ namespace AspEFCore.Repositories
     {
         public List<Employee> GetEmployees();
         public Employee GetEmployee(int id);
+        public void AddEmployee(Employee employee);
     }
 }

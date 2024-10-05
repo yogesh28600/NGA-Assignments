@@ -1,4 +1,5 @@
 ﻿using AspEFCore.Context;
+using AspEFCore.Factory;
 using AspEFCore.Models;
 
 namespace AspEFCore.Repositories
@@ -18,6 +19,11 @@ namespace AspEFCore.Repositories
         public List<Employee> GetEmployees()
         {
             return _context.Employees.ToList();
+        }
+        public void AddEmployee(Employee emp)
+        {
+            _context.Employees.Add(emp);
+            _context.SaveChanges();
         }
     }
 }

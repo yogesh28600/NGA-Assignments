@@ -4,7 +4,7 @@
 }
 <h1>List of Employees</h1>
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-controller="Employee" asp-action="CreateEmployee">Create New</a>
 </p>
 <table class="table table-bordered border-primary">
     <thead>
@@ -19,7 +19,13 @@
             <th>
                 @Html.DisplayNameFor(model => model.phoneNumber)
             </th>
-            <th></th>
+            <th>
+                @Html.DisplayNameFor(model=>model.bonus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model=>model.pay)
+            </th>
+            <th>Actions</th>
         </tr>
     </thead>
     <tbody>
@@ -37,6 +43,12 @@
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.phoneNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem=>item.bonus)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem=>item.pay)
                 </td>
                 <td>
                     @Html.ActionLink("Edit", "EditEmployee", new { id = item.Id }) |

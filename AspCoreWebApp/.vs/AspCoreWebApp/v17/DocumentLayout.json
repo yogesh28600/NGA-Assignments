@@ -3,28 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspCoreWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF18D0DC-4522-408C-88C4-C200063C95B7}|..\\AspEFCore\\AspEFCore.csproj|c:\\users\\administrator\\desktop\\24nag2219_u08\\assignments\\aspefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF18D0DC-4522-408C-88C4-C200063C95B7}|..\\AspEFCore\\AspEFCore.csproj|c:\\users\\administrator\\desktop\\24nag2219_u08\\assignments\\aspefcore\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF18D0DC-4522-408C-88C4-C200063C95B7}|..\\AspEFCore\\AspEFCore.csproj|c:\\users\\administrator\\desktop\\24nag2219_u08\\assignments\\aspefcore\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF18D0DC-4522-408C-88C4-C200063C95B7}|..\\AspEFCore\\AspEFCore.csproj|c:\\users\\administrator\\desktop\\24nag2219_u08\\assignments\\aspefcore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF18D0DC-4522-408C-88C4-C200063C95B7}|..\\AspEFCore\\AspEFCore.csproj|c:\\users\\administrator\\desktop\\24nag2219_u08\\assignments\\aspefcore\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF18D0DC-4522-408C-88C4-C200063C95B7}|..\\AspEFCore\\AspEFCore.csproj|c:\\users\\administrator\\desktop\\24nag2219_u08\\assignments\\aspefcore\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF18D0DC-4522-408C-88C4-C200063C95B7}|..\\AspEFCore\\AspEFCore.csproj|c:\\users\\administrator\\desktop\\24nag2219_u08\\assignments\\aspefcore\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF18D0DC-4522-408C-88C4-C200063C95B7}|..\\AspEFCore\\AspEFCore.csproj|c:\\users\\administrator\\desktop\\24nag2219_u08\\assignments\\aspefcore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF18D0DC-4522-408C-88C4-C200063C95B7}|..\\AspEFCore\\AspEFCore.csproj|c:\\users\\administrator\\desktop\\24nag2219_u08\\assignments\\aspefcore\\abstractfactory\\concreteclasses\\computermanager\\permanentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF18D0DC-4522-408C-88C4-C200063C95B7}|..\\AspEFCore\\AspEFCore.csproj|c:\\users\\administrator\\desktop\\24nag2219_u08\\assignments\\aspefcore\\abstractfactory\\concreteclasses\\computermanager\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF18D0DC-4522-408C-88C4-C200063C95B7}|..\\AspEFCore\\AspEFCore.csproj|c:\\users\\administrator\\desktop\\24nag2219_u08\\assignments\\aspefcore\\abstractfactory\\concreteclasses\\computermanager\\contractualmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF18D0DC-4522-408C-88C4-C200063C95B7}|..\\AspEFCore\\AspEFCore.csproj|c:\\users\\administrator\\desktop\\24nag2219_u08\\assignments\\aspefcore\\abstractfactory\\abstractinterface\\icomputerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,96 +25,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "..\\AspEFCore\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "..\\AspEFCore\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAgAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T11:49:10.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\Views\\User\\Login.cshtml",
-              "RelativeDocumentMoniker": "..\\AspEFCore\\Views\\User\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\Views\\User\\Login.cshtml",
-              "RelativeToolTip": "..\\AspEFCore\\Views\\User\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-27T11:45:43.964Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "..\\AspEFCore\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "..\\AspEFCore\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T11:43:27.39Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\Program.cs",
-              "RelativeDocumentMoniker": "..\\AspEFCore\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\Program.cs",
-              "RelativeToolTip": "..\\AspEFCore\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBgAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T11:38:15.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\Views\\User\\Register.cshtml",
-              "RelativeDocumentMoniker": "..\\AspEFCore\\Views\\User\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\Views\\User\\Register.cshtml",
-              "RelativeToolTip": "..\\AspEFCore\\Views\\User\\Register.cshtml",
-              "ViewState": "AQIAABQAAAAAAAAAAAAQwCIAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-27T11:13:27.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\Models\\User.cs",
-              "RelativeDocumentMoniker": "..\\AspEFCore\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\Models\\User.cs",
-              "RelativeToolTip": "..\\AspEFCore\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T09:35:33.364Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "..\\AspEFCore\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\Controllers\\UserController.cs",
-              "RelativeToolTip": "..\\AspEFCore\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCgAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T09:30:32.451Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\ViewModels\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "..\\AspEFCore\\ViewModels\\RegisterViewModel.cs",
@@ -131,7 +37,60 @@
               "RelativeToolTip": "..\\AspEFCore\\ViewModels\\RegisterViewModel.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAQwAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T09:19:49.321Z"
+              "WhenOpened": "2024-09-27T09:19:49.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContractualManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\AbstractFactory\\ConcreteClasses\\ComputerManager\\ContractualManager.cs",
+              "RelativeDocumentMoniker": "..\\AspEFCore\\AbstractFactory\\ConcreteClasses\\ComputerManager\\ContractualManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\AbstractFactory\\ConcreteClasses\\ComputerManager\\ContractualManager.cs",
+              "RelativeToolTip": "..\\AspEFCore\\AbstractFactory\\ConcreteClasses\\ComputerManager\\ContractualManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:05:59.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\AbstractFactory\\ConcreteClasses\\ComputerManager\\Manager.cs",
+              "RelativeDocumentMoniker": "..\\AspEFCore\\AbstractFactory\\ConcreteClasses\\ComputerManager\\Manager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\AbstractFactory\\ConcreteClasses\\ComputerManager\\Manager.cs",
+              "RelativeToolTip": "..\\AspEFCore\\AbstractFactory\\ConcreteClasses\\ComputerManager\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:04:50.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PermanentManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\AbstractFactory\\ConcreteClasses\\ComputerManager\\PermanentManager.cs",
+              "RelativeDocumentMoniker": "..\\AspEFCore\\AbstractFactory\\ConcreteClasses\\ComputerManager\\PermanentManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\AbstractFactory\\ConcreteClasses\\ComputerManager\\PermanentManager.cs",
+              "RelativeToolTip": "..\\AspEFCore\\AbstractFactory\\ConcreteClasses\\ComputerManager\\PermanentManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:02:17.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IComputerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\AbstractFactory\\AbstractInterface\\IComputerFactory.cs",
+              "RelativeDocumentMoniker": "..\\AspEFCore\\AbstractFactory\\AbstractInterface\\IComputerFactory.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\AspEFCore\\AbstractFactory\\AbstractInterface\\IComputerFactory.cs",
+              "RelativeToolTip": "..\\AspEFCore\\AbstractFactory\\AbstractInterface\\IComputerFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:46:05.637Z",
+              "EditorCaption": ""
             }
           ]
         }
