@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD987BAF-507A-4B27-A20F-DBDCD6C49E7F}|StudentsAPI.csproj|C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD987BAF-507A-4B27-A20F-DBDCD6C49E7F}|StudentsAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD987BAF-507A-4B27-A20F-DBDCD6C49E7F}|StudentsAPI.csproj|C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD987BAF-507A-4B27-A20F-DBDCD6C49E7F}|StudentsAPI.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD987BAF-507A-4B27-A20F-DBDCD6C49E7F}|StudentsAPI.csproj|C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\studentsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD987BAF-507A-4B27-A20F-DBDCD6C49E7F}|StudentsAPI.csproj|solutionrelative:studentsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD987BAF-507A-4B27-A20F-DBDCD6C49E7F}|StudentsAPI.csproj|c:\\users\\administrator\\desktop\\24nag2219_u08\\assignments\\studentsapi\\repositories\\studentrepo\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD987BAF-507A-4B27-A20F-DBDCD6C49E7F}|StudentsAPI.csproj|solutionrelative:repositories\\studentrepo\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD987BAF-507A-4B27-A20F-DBDCD6C49E7F}|StudentsAPI.csproj|C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD987BAF-507A-4B27-A20F-DBDCD6C49E7F}|StudentsAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD987BAF-507A-4B27-A20F-DBDCD6C49E7F}|StudentsAPI.csproj|C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\migrations\\20241015091351_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD987BAF-507A-4B27-A20F-DBDCD6C49E7F}|StudentsAPI.csproj|solutionrelative:migrations\\20241015091351_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD987BAF-507A-4B27-A20F-DBDCD6C49E7F}|StudentsAPI.csproj|C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\repositories\\studentrepo\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD987BAF-507A-4B27-A20F-DBDCD6C49E7F}|StudentsAPI.csproj|solutionrelative:repositories\\studentrepo\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD987BAF-507A-4B27-A20F-DBDCD6C49E7F}|StudentsAPI.csproj|C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\context\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD987BAF-507A-4B27-A20F-DBDCD6C49E7F}|StudentsAPI.csproj|solutionrelative:context\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD987BAF-507A-4B27-A20F-DBDCD6C49E7F}|StudentsAPI.csproj|C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD987BAF-507A-4B27-A20F-DBDCD6C49E7F}|StudentsAPI.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T09:07:44.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241015091351_init.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\Migrations\\20241015091351_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241015091351_init.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\Migrations\\20241015091351_init.cs",
+              "RelativeToolTip": "Migrations\\20241015091351_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:13:51.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:03:34.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\Repositories\\StudentRepo\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\StudentRepo\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\Repositories\\StudentRepo\\StudentRepo.cs",
+              "RelativeToolTip": "Repositories\\StudentRepo\\StudentRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:00:36.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\Repositories\\StudentRepo\\IStudentRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\StudentRepo\\IStudentRepo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\Repositories\\StudentRepo\\IStudentRepo.cs",
+              "RelativeToolTip": "Repositories\\StudentRepo\\IStudentRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:59:26.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\StudentsAPI.csproj",
+              "RelativeDocumentMoniker": "StudentsAPI.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\StudentsAPI.csproj",
+              "RelativeToolTip": "StudentsAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T08:58:44.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\Context\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\StudentDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\Context\\StudentDbContext.cs",
+              "RelativeToolTip": "Context\\StudentDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:54:40.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:51:30.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\24NAG2219_U08\\assignments\\StudentsAPI\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:49:15.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
